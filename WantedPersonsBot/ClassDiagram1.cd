@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WantedPersonsBot.TelegramBotMethods">
+    <Position X="1" Y="1" Width="2" />
+    <NestedTypes>
+      <Enum Name="WantedPersonsBot.TelegramBotMethods.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TelegramBotMethods.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIBAAAAKAAEAAADAAAAQAAAAAAQAAEAAAEBAAACiAA=</HashCode>
+      <FileName>TelegramBotMethods.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="photos" />
+      <Property Name="wPersons" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="WantedPersonsBot.WantedPerson">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAAAAAAAAAAAAAAAAAAAAAKAAAAABAAJAAAAEABA=</HashCode>
+      <FileName>WantedPerson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WantedPersonsBot.Person">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACIAAAAgkAAAAAAAgAAAAAEQABgCAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WantedPersonsBot.Photo">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Photo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
